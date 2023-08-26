@@ -1,19 +1,9 @@
 def options():
     return {
         "names_files": {
-            "names_CHAR18_Manufacturer_EU": 18,
-            "names_CHAR18_Manufacturer_JP": 18,
-            "names_CHAR18_Manufacturer_US": 18,
-            "names_CHAR18_Common_EU": 18,
-            "names_CHAR18_Common_JP": 18,
-            "names_CHAR18_Common_US": 18,
-            "names_CHAR28_Manufacturer_EU": 28,
-            "names_CHAR28_Manufacturer_JP": 28,
-            "names_CHAR28_Manufacturer_US": 28,
-            "names_CHAR28_Common_EU": 28,
-            "names_CHAR28_Common_JP": 28,
-            "names_CHAR28_Common_US": 28,
-            "names_CHAR54_Manufacturer_EU": 54,
+            "arcade_names_EU": 54,
+            "arcade_names_JP": 54,
+            "arcade_names_US": 54,
         },
         "csv_separator": ";",
         "csv_quote_char": '|',
