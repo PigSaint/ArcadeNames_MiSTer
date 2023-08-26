@@ -17,7 +17,7 @@ echo
 echo
 echo
 
-git add names*
+git add arcade_names*
 
 if ! git diff --staged --quiet --exit-code --ignore-space-at-eol ; then
     echo "There are changes to commit."
