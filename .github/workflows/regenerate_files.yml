@@ -1,8 +1,10 @@
 name: Regenerate Files
 on: push
+permissions:
+  contents: write
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2
 
@@ -13,5 +15,5 @@ jobs:
           git config --global user.name "The CI/CD Bot"
           ./.github/regenerate_files.sh
         env:
-          URL_BASE: https://raw.githubusercontent.com/ThreepwoodLeBrush/Names_MiSTer/%s/
+          URL_BASE: https://raw.githubusercontent.com/PigSaint/ArcadeNames_MiSTer/%s/
           GIT_PUSH: 'true'
