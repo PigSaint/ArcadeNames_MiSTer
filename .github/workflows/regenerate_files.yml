@@ -1,5 +1,7 @@
 name: Regenerate Files
-on: push
+on:
+  push:
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
