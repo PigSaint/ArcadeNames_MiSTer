@@ -1,6 +1,6 @@
                    |                  |         |                         |
 Arkanoid:           Taito - Arkanoid
-armedf:             Nichibutsu - Formation Armed Force update
+armedf:             Nichibutsu - Formation Armed F
 Asteroids:          Atari - Asteroids
 AsteroidsDeluxe:    Atari - Asteroids Deluxe
 AtariTetris:        Atari - Tetris
