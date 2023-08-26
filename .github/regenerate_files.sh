@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Copyright (c) 2021-2023 José Manuel Barroso Galindo <theypsilon@gmail.com>
+# Copyright (c) 2023 José Manuel Barroso Galindo <theypsilon@gmail.com>
 
 set -euo pipefail
 
@@ -23,7 +23,7 @@ if ! git diff --staged --quiet --exit-code --ignore-space-at-eol ; then
     echo "There are changes to commit."
     echo
     git commit -m "BOT: Regenerated files."
-    git push origin master
+    git push origin main
     SHA=$(git rev-parse --verify HEAD)
 
     echo
