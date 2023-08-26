@@ -40,8 +40,7 @@ def main(sha):
                 'Scripts/.config/arcade_names/arcade_names.txt': {
                     'hash': hash(entry.name),
                     'size': size(entry.name),
-                    'url': (url_base % sha) + entry.name,
-                    'reboot': True
+                    'url': (url_base % sha) + entry.name
                 }
             },
             'folders': {
