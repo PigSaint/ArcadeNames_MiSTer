@@ -37,7 +37,7 @@ def main(sha):
             'db_url': (url_base % 'dbs') + path.stem + '.json',
             'default_options': {},
             'files': {
-                'Scripts/.config/ArcadeNames/arcade_names.txt': {
+                'Scripts/.config/arcade_names/arcade_names.txt': {
                     'hash': hash(entry.name),
                     'size': size(entry.name),
                     'url': (url_base % sha) + entry.name,
@@ -47,7 +47,7 @@ def main(sha):
             'folders': {
                 "Scripts": {},
                 "Scripts/.config": {},
-                "Scripts/.config/ArcadeNames": {}
+                "Scripts/.config/arcade_names": {}
             },
             'timestamp': int(time.time()),
             'zips': {},
