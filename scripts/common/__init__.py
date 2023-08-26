@@ -1,9 +1,9 @@
 def options():
     return {
         "names_files": {
-            "arcade_names_EU": 54,
-            "arcade_names_JP": 54,
-            "arcade_names_US": 54,
+            "arcade_names_EU": 27,
+            "arcade_names_JP": 27,
+            "arcade_names_US": 27,
         },
         "csv_separator": ";",
         "csv_quote_char": '|',
