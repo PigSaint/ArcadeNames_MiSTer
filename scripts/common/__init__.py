@@ -19,6 +19,6 @@ def options():
         "cores_column_rightpadding_txt": 19,
         "cores_column_name": "Cores",
         "stip_from_reference": "arcade_names_",
-        "big_space_before_core": "Arkanoid",
+        "big_space_before_core": ".....none.....",
         "big_space_line_quantity": 10,
     }

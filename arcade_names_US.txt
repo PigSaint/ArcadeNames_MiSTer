@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
                    |                  |         |                         |
 Arkanoid:           Taito - Arkanoid
 armedf:             Nichibutsu - Formation Armed F
