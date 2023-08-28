@@ -37,7 +37,7 @@ CrazyBalloon:       Taito - Crazy Balloon
 CrazyClimber:       Nichibutsu - Crazy Climber
 CrazyKong:          Falcon - Crazy Kong
 CrystalCastles:     Atari - Crystal Castles
-Defender:           Williams, Inc. Defender
+Defender:           Williams Elect. - Defender
 demonwld:           Toaplan System 1 (Horror Story)
 DigDug:             Namco - Dig Dug
 Dominos:            Atari - Dominos
