@@ -2,6 +2,8 @@
 Cores                         ;arcade_names_EU                                       ;arcade_names_JP                                       ;arcade_names_US                                       
 ===================================================================================================================================================================================================
                               |                           |                          |                           |                          |                           |                          |
+Alpha68k                      ;SNK Alpha 68000                                       ;Alpha68k:EU                                           ;Alpha68k:EU                                           
+Astrocade                     ;Bally Astrocade                                       ;Astrocade:EU                                          ;Astrocade:EU                                          
 Arkanoid                      ;Taito - Arkanoid                                      ;Arkanoid:EU                                           ;Arkanoid:EU                                           
 armedf                        ;Nichibutsu - Formation Armed F                        ;armedf:EU                                             ;armedf:EU                                             
 Asteroids                     ;Atari - Asteroids                                     ;Asteroids:EU                                          ;Asteroids:EU                                          
@@ -25,6 +27,7 @@ BurgerTime                    ;Data East - Burger Time                          
 BurningRubber                 ;Data East - Burnin' Rubber                            ;BurningRubber:EU                                      ;Data East - Bump 'n' Jump                             
                               |                           |                          |                           |                          |                           |                          |
 CanyonBomber                  ;Atari - Canyon Bomber                                 ;CanyonBomber:EU                                       ;CanyonBomber:EU                                       
+Cave                          ;CAVE 68000                                            ;Cave:EU                                               ;Cave:EU                                               
 Centipede                     ;Atari - Centipede                                     ;Centipede:EU                                          ;Centipede:EU                                          
 Chameleon                     ;Jaleco - Chameleon                                    ;Chameleon:EU                                          ;Chameleon:EU                                          
 ComputerSpace                 ;Syzygy Engr. Computer Space                           ;ComputerSpace:EU                                      ;ComputerSpace:EU                                      
@@ -75,7 +78,7 @@ IremM72                       ;Irem M72                                         
 IremM92                       ;Irem M92                                              ;IremM92:EU                                            ;IremM92:EU                                            
 IronHorse                     ;Konami - Iron Horse                                   ;Konami - Dai Ressha Goutou                            ;IronHorse:EU                                          
 Jackal                        ;Konami - Jackal                                       ;Jackal:EU                                             ;Jackal:EU                                             
-Jailbreak                     ;Konami - Jail Break                                   ;Konami - Manhattan 24 Bunsho: New York City 151-Nishi-Dai 100 Street;jailbreak:EU                                          
+Jailbreak                     ;Konami - Jail Break                                   ;Konami - Manhattan 24 Bunsho: New York City 151-Nishi-Dai 100 Street;jailbreak:EU                            
 Joust2                        ;Williams Elect. - Joust 2: Survival of the Fittest    ;Joust2:EU                                             ;Joust2:EU                                             
 jt1942                        ;Capcom - 1942                                         ;jt1942:EU                                             ;jt1942:EU                                             
 jt1943                        ;Capcom - 1943: The Battle of Midway                   ;Capcom - 1943: Middouei Kaisen                        ;jt1943:EU                                             
@@ -200,6 +203,7 @@ Scramble                      ;Konami - Scramble                                
 SEGASYS1                      ;SEGA System 1                                         ;SEGASYS1:EU                                           ;SEGASYS1:EU                                           
 SilverLand                    ;Falcon - Silver Land                                  ;SilverLand:EU                                         ;SilverLand:EU                                         
 SlapFight                     ;Toaplan - Slap Fight                                  ;SlapFight:EU                                          ;SlapFight:EU                                          
+SMS                           ;SEGA System E                                         ;SMS:EU                                                ;SMS:EU                                                
 SnapJack                      ;Universal - Snap Jack                                 ;SnapJack:EU                                           ;SnapJack:EU                                           
 SNK68                         ;SNK 68000                                             ;SNK68:EU                                              ;SNK68:EU                                              
 SNK_TripleZ80                 ;SNK Triple Z80                                        ;SNK_TripleZ80:EU                                      ;SNK_TripleZ80:EU                                      
