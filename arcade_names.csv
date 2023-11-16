@@ -105,6 +105,7 @@ jtdd2                         ;Technos - Double Dragon II: The Revenge          
 jtexed                        ;Capcom - Exed Exes                                    ;jtexed:EU                                             ;Capcom - Savage Bees                                  
 jtf1drm                       ;Capcom - F-1 Dream                                    ;jtf1drm:EU                                            ;jtf1drm:EU                                            
 jtflane                       ;Capcom - Fast Lane                                    ;jtflane:EU                                            ;jtflane:EU                                            
+jtfround                      ;Konami - The Final Round                              ;Konami - Hard Puncher: Chimamire no Eikou             ;jtfround:EU
 jtgng                         ;Capcom - Ghosts 'n Goblins                            ;Capcom - Makaimura                                    ;jtgng:EU                                              
 jtgunsmk                      ;Capcom - Gun.Smoke                                    ;jtgunsmk:EU                                           ;jtgunsmk:EU                                           
 jthige                        ;Capcom - Pirate Ship Higemaru                         ;jthige:EU                                             ;jthige:EU                                             
@@ -139,7 +140,8 @@ jtsarms                       ;Capcom - Hyper Dyne Side Arms                    
 jtsbask1                      ;Konami - Super Basketball -version I-                 ;jtsbask1:EU                                           ;jtsbask1:EU                                           
 jtsbaskt                      ;Konami - Super Basketball -version H-                 ;jtsbaskt:EU                                           ;jtsbaskt:EU                                           
 jtshanon                      ;SEGA - Super Hang-On                                  ;jtshanon:EU                                           ;jtshanon:EU                                           
-jtsimson                      ;Konami - The Simpsons                                 ;jtsomson:EU                                           ;jtsimson:JP                                           
+jtshouse                      ;Namco - Splatterhouse                                 ;jtshouse:EU                                           ;jtshouse:EU
+jtsimson                      ;Konami - The Simpsons                                 ;jtsimson:EU                                           ;jtsimson:EU                                           
 jtslyspy                      ;Data East - Sly Spy: Secret Agent                     ;Data East - Secret Agent                              ;Data East - Sly Spy                                   
 
 ===================================================================================================================================================================================================
