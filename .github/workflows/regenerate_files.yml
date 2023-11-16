@@ -1,0 +1,21 @@
+name: Regenerate Files
+on:
+  push:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Regenerate Files
+        run: |
+          set -euo pipefail
+          git config --global user.email "theypsilon@gmail.com"
+          git config --global user.name "The CI/CD Bot"
+          ./.github/regenerate_files.sh
+        env:
+          URL_BASE: https://raw.githubusercontent.com/PigSaint/ArcadeNames_MiSTer/%s/
+          GIT_PUSH: 'true'
