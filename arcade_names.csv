@@ -105,11 +105,11 @@ jtdd2                         ;Technos - Double Dragon II: The Revenge          
 jtexed                        ;Capcom - Exed Exes                                    ;jtexed:EU                                             ;Capcom - Savage Bees                                  
 jtf1drm                       ;Capcom - F-1 Dream                                    ;jtf1drm:EU                                            ;jtf1drm:EU                                            
 jtflane                       ;Capcom - Fast Lane                                    ;jtflane:EU                                            ;jtflane:EU                                            
-jtfround                      ;Konami - The Final Round                              ;Konami - Hard Puncher: Chimamire no Eikou             ;jtfround:EU
+jtfround                      ;Konami - The Final Round                              ;Konami - Hard Puncher: Chimamire no Eikou             ;jtfround:EU                                           
 jtgng                         ;Capcom - Ghosts 'n Goblins                            ;Capcom - Makaimura                                    ;jtgng:EU                                              
 jtgunsmk                      ;Capcom - Gun.Smoke                                    ;jtgunsmk:EU                                           ;jtgunsmk:EU                                           
-jthige                        ;Capcom - Pirate Ship Higemaru                         ;jthige:EU                                             ;jthige:EU                                             
                               |                           |                          |                           |                          |                           |                          |
+jthige                        ;Capcom - Pirate Ship Higemaru                         ;jthige:EU                                             ;jthige:EU                                             
 jtkarnov                      ;Data East Karnov                                      ;jtkarnov:EU                                           ;jtkarnov:EU                                           
 jtkchamp                      ;Data East - Karate Champ                              ;Data East - Karate Dou                                ;jtkchamp:EU                                           
 jtkicker                      ;Konami - Shao-Lin's Road                              ;jtkicker:EU                                           ;Konami - Kicker                                       
@@ -119,8 +119,8 @@ jtlabrun                      ;Konami - Labyrinth Runner                        
 jtmidres                      ;Data East - Midnight Resistance                       ;jtmidres:EU                                           ;jtmidres:EU                                           
 jtmikie                       ;Konami - Mikie                                        ;Konami - Shinnyuu Shain Tooru-kun                     ;jtmikie:EU                                            
 jtmx5k                        ;Konami - MX5000                                       ;Konami - Flak Attack                                  ;jtmx5k:JP                                             
-jtninja                       ;Data East - DragonNinja                               ;jtninja:EU                                            ;Data East - Bad Dudes Vs DragonNinja                  
                               |                           |                          |                           |                          |                           |                          |
+jtninja                       ;Data East - DragonNinja                               ;jtninja:EU                                            ;Data East - Bad Dudes Vs DragonNinja                  
 jtoutrun                      ;SEGA Out Run                                          ;jtoutrun:EU                                           ;jtoutrun:EU                                           
 jtpang                        ;Mitchell Pang                                         ;Mitchell Buster Bros.                                 ;jtpang:EU                                             
 jtpinpon                      ;Konami - Konami's Ping Pong                           ;Konami - Konami no Ping Pong                          ;jtpinpon:EU                                           
@@ -130,8 +130,8 @@ jtroc                         ;Konami - Roc'n Rope                              
 jtroadf                       ;Konami Road Fighter                                   ;jtroadf:EU                                            ;jtroadf:EU                                            
 jtrumble                      ;Capcom - The Speed Rumbler                            ;jtrumble:EU                                           ;jtrumble:EU                                           
 jts16                         ;SEGA System 16                                        ;jts16:EU                                              ;jts16:EU                                              
-jts16a2                       ;SEGA System 16A2                                      ;jts16a2:EU                                            ;jts16a2:EU                                            
                               |                           |                          |                           |                          |                           |                          |
+jts16a2                       ;SEGA System 16A2                                      ;jts16a2:EU                                            ;jts16a2:EU                                            
 jts16b1                       ;SEGA System 16B1                                      ;jts16b1:EU                                            ;jts16b1:EU                                            
 jts16b2                       ;SEGA System 16B2                                      ;jts16b2:EU                                            ;jts16b2:EU                                            
 jts16b3                       ;SEGA System 16B3                                      ;jts16b3:EU                                            ;jts16b3:EU                                            
@@ -140,14 +140,14 @@ jtsarms                       ;Capcom - Hyper Dyne Side Arms                    
 jtsbask1                      ;Konami - Super Basketball -version I-                 ;jtsbask1:EU                                           ;jtsbask1:EU                                           
 jtsbaskt                      ;Konami - Super Basketball -version H-                 ;jtsbaskt:EU                                           ;jtsbaskt:EU                                           
 jtshanon                      ;SEGA - Super Hang-On                                  ;jtshanon:EU                                           ;jtshanon:EU                                           
-jtshouse                      ;Namco - Splatterhouse                                 ;jtshouse:EU                                           ;jtshouse:EU
-jtsimson                      ;Konami - The Simpsons                                 ;jtsimson:EU                                           ;jtsimson:EU                                           
-jtslyspy                      ;Data East - Sly Spy: Secret Agent                     ;Data East - Secret Agent                              ;Data East - Sly Spy                                   
+jtshouse                      ;Namco - Splatterhouse                                 ;jtshouse:EU                                           ;jtshouse:EU                                           
 
 ===================================================================================================================================================================================================
 Cores                         ;arcade_names_EU                                       ;arcade_names_JP                                       ;arcade_names_US                                       
 ===================================================================================================================================================================================================
                               |                           |                          |                           |                          |                           |                          |
+jtsimson                      ;Konami - The Simpsons                                 ;jtsimson:EU                                           ;jtsimson:EU                                           
+jtslyspy                      ;Data East - Sly Spy: Secret Agent                     ;Data East - Secret Agent                              ;Data East - Sly Spy                                   
 jtsf                          ;Capcom - Street Fighter                               ;jtsf:EU                                               ;jtsf:EU                                               
 jtsectnz                      ;Capcom - Section Z                                    ;jtsectnz:EU                                           ;jtsectnz:EU                                           
 jttmnt                        ;Konami TMNT                                           ;jttmnt:EU                                             ;jttmnt:EU                                             
@@ -156,9 +156,9 @@ jttrojan                      ;Capcom - Trojan                                  
 jtvigil                       ;Irem - Vigilante                                      ;jtvigil:EU                                            ;jtvigil:EU                                            
 jtvulgus                      ;Capcom - Vulgus                                       ;jtvulgus:EU                                           ;jtvulgus:EU                                           
 jtyiear                       ;Konami - Yie Ar Kung-Fu                               ;jtyiear:EU                                            ;jtyiear:EU                                            
+                              |                           |                          |                           |                          |                           |                          |
 KickAndRun                    ;Taito Kick And Run                                    ;KickAndRun:EU                                         ;KickAndRun:EU                                         
 LadyBug                       ;Universal - Lady Bug                                  ;LadyBug:EU                                            ;LadyBug:EU                                            
-                              |                           |                          |                           |                          |                           |                          |
 LunarLander                   ;Atari - Lunar Lander                                  ;LunarLander:EU                                        ;LunarLander:EU                                        
 MarioBros                     ;Nintendo - Mario Bros.                                ;Nintendo - Mario Brothers                             ;MarioBros:EU                                          
 MCR1                          ;Bally Midway MCR-1                                    ;MCR1:EU                                               ;MCR1:EU                                               
@@ -167,9 +167,9 @@ MCR3                          ;Bally Midway MCR-3                               
 MCR3Mono                      ;Bally Midway MCR-3 Monoboard                          ;MCR3Mono:EU                                           ;MCR3Mono:EU                                           
 MCR3Scroll                    ;Bally Midway MCR-3 Scroll                             ;MCR3Scroll:EU                                         ;MCR3Scroll:EU                                         
 MegaSys1_A                    ;Jaleco Mega System 1-A                                ;MegaSys1_A:EU                                         ;MegaSys1_A:EU                                         
+                              |                           |                          |                           |                          |                           |                          |
 MissileCommand                ;Atari - Missile Command                               ;MissileCommand:EU                                     ;MissileCommand:EU                                     
 MoonPatrol                    ;Irem - Moon Patrol                                    ;MoonPatrol:EU                                         ;MoonPatrol:EU                                         
-                              |                           |                          |                           |                          |                           |                          |
 MrDo                          ;Universal - Mr. Do!                                   ;MrDo:EU                                               ;MrDo:EU                                               
 MrJong                        ;Kiwako - Crazy Blocks                                 ;Kiwako - Mr. Jong                                     ;Kiwako - BlockBuster                                  
 MysticMarathon                ;Williams Elect. - Mystic Marathon                     ;MysticMarathon:EU                                     ;MysticMarathon:EU                                     
@@ -178,9 +178,9 @@ NextSpace                     ;SNK Alpha 68000                                  
 NinjaKun                      ;UPL - Ninja Kun                                       ;UPL - Ninja-kun: Majou no Bouken                      ;NinjaKun:EU                                           
 Pacman                        ;Namco - Pac-Man                                       ;Namco - Puck Man                                      ;Pacman:EU                                             
 Pengo                         ;Coreland - Pengo                                      ;Pengo:EU                                              ;Pengo:EU                                              
+                              |                           |                          |                           |                          |                           |                          |
 PenguinKunWars                ;UPL - Penguin-Kun Wars                                ;PenguinKunWars:EU                                     ;PenguinKunWars:EU                                     
 Performan                     ;Toaplan - Performan                                   ;Performan:EU                                          ;Performan:EU                                          
-                              |                           |                          |                           |                          |                           |                          |
 Phoenix                       ;Centuri - Phoenix                                     ;Phoenix:EU                                            ;Phoenix:EU                                            
 pipibibs                      ;Toaplan - Pipi & Bibis                                ;Toaplan - Whoopee!!                                   ;pipibibs:EU                                           
 Pleiads                       ;Centuri - Pleiades                                    ;Pleiads:EU                                            ;Pleiads:EU                                            
@@ -189,13 +189,13 @@ Pong                          ;Atari - Pong                                     
 Pooyan                        ;Stern Elect. - Pooyan                                 ;Pooyan:EU                                             ;Pooyan:EU                                             
 Popeye                        ;Nintendo - Popeye                                     ;Popeye:EU                                             ;Popeye:EU                                             
 prehisle                      ;SNK Prehistoric Isle in 1930                          ;SNK Genshi-Tou 1930's                                 ;prehisle:EU                                           
-QBert                         ;Gottlieb - Q'Bert                                     ;QBert:EU                                              ;QBert:EU                                              
-rallybike                     ;Toaplan System 1 (Rally Bike)                         ;Toaplan System 1 (Dash Yarou)                         ;rallybike:EU                                          
 
 ===================================================================================================================================================================================================
 Cores                         ;arcade_names_EU                                       ;arcade_names_JP                                       ;arcade_names_US                                       
 ===================================================================================================================================================================================================
                               |                           |                          |                           |                          |                           |                          |
+QBert                         ;Gottlieb - Q'Bert                                     ;QBert:EU                                              ;QBert:EU                                              
+rallybike                     ;Toaplan System 1 (Rally Bike)                         ;Toaplan System 1 (Dash Yarou)                         ;rallybike:EU                                          
 RallyX                        ;Namco - Rally-X                                       ;RallyX:EU                                             ;RallyX:EU                                             
 RiverPatrol                   ;Orca - River Patrol                                   ;RiverPatrol:EU                                        ;RiverPatrol:EU                                        
 Robotron                      ;Vid Kidz - Robotron: 1984                             ;Robotron:EU                                           ;Robotron:EU                                           
@@ -204,9 +204,9 @@ ScooterShooter                ;Konami - Scooter Shooter                         
 Scramble                      ;Konami - Scramble                                     ;Scramble:EU                                           ;Scramble:EU                                           
 SEGASYS1                      ;SEGA System 1                                         ;SEGASYS1:EU                                           ;SEGASYS1:EU                                           
 SilverLand                    ;Falcon - Silver Land                                  ;SilverLand:EU                                         ;SilverLand:EU                                         
+                              |                           |                          |                           |                          |                           |                          |
 SlapFight                     ;Toaplan - Slap Fight                                  ;SlapFight:EU                                          ;SlapFight:EU                                          
 SMS                           ;SEGA System E                                         ;SMS:EU                                                ;SMS:EU                                                
-                              |                           |                          |                           |                          |                           |                          |
 SnapJack                      ;Universal - Snap Jack                                 ;SnapJack:EU                                           ;SnapJack:EU                                           
 SNK68                         ;SNK 68000                                             ;SNK68:EU                                              ;SNK68:EU                                              
 SNK_TripleZ80                 ;SNK Triple Z80                                        ;SNK_TripleZ80:EU                                      ;SNK_TripleZ80:EU                                      
@@ -215,9 +215,9 @@ SolomonsKey                   ;Tecmo - Solomon's Key                            
 Sonson                        ;Capcom - SonSon                                       ;Sonson:EU                                             ;Sonson:EU                                             
 SpaceInvaders                 ;Taito - Space Invaders                                ;SpaceInvaders:EU                                      ;SpaceInvaders:EU                                      
 SpaceRace                     ;Atari - Space Race                                    ;SpaceRace:EU                                          ;SpaceRace:EU                                          
+                              |                           |                          |                           |                          |                           |                          |
 Sprint1                       ;Atari - Sprint 1                                      ;Sprint1:EU                                            ;Sprint1:EU                                            
 Sprint2                       ;Atari - Sprint 2                                      ;Sprint2:EU                                            ;Sprint2:EU                                            
-                              |                           |                          |                           |                          |                           |                          |
 Subs                          ;Atari - Subs                                          ;Subs:EU                                               ;Subs:EU                                               
 SuperBreakout                 ;Atari - Super Breakout                                ;SuperBreakout:EU                                      ;SuperBreakout:EU                                      
 TaitoSJ                       ;Taito System SJ                                       ;TaitoSJ:EU                                            ;TaitoSJ:EU                                            
@@ -226,9 +226,9 @@ Tecmo                         ;Tecmo 1st Gen                                    
 terracresta                   ;Nichibutsu - Terra Cresta                             ;terracresta:EU                                        ;terracresta:EU                                        
 TIAMC1                        ;Ekstrema-Ukraina TIA-MC-1                             ;TIAMC1:EU                                             ;TIAMC1:EU                                             
 TimePilot                     ;Konami - Time Pilot                                   ;TimePilot:EU                                          ;TimePilot:EU                                          
+                              |                           |                          |                           |                          |                           |                          |
 TimePilot84                   ;Konami - Time Pilot '84: Further Into Unknown World   ;TimePilot84:EU                                        ;TimePilot84:EU                                        
 TMNT                          ;Konami TMNT                                           ;TMNT:EU                                               ;TMNT:EU                                               
-                              |                           |                          |                           |                          |                           |                          |
 TNKIII                        ;SNK - T.N.K. III                                      ;SNK - T·A·N·K                                         ;TNKIII:EU                                             
 toaplan1                      ;Toaplan Version 1                                     ;toaplan1:EU                                           ;toaplan1:EU                                           
 TraverseUSA                   ;Irem - Traverse USA                                   ;Irem - Zippy Race                                     ;Irem - MotoRace USA                                   
@@ -237,13 +237,13 @@ truxton2                      ;Toaplan - Truxton II                             
 TurkeyShoot                   ;Williams Elect. - Turkey Shoot                        ;TurkeyShoot:EU                                        ;TurkeyShoot:EU                                        
 Ultratank                     ;Kee Games - Ultra Tank                                ;Ultratank:EU                                          ;Ultratank:EU                                          
 VBall                         ;Technos - U.S. Championship V'Ball                    ;VBall:EU                                              ;VBall:EU                                              
-vimana                        ;Toaplan System 1 (Vimana)                             ;vimana:EU                                             ;vimana:EU                                             
-Xevious                       ;Namco - Xevious                                       ;Xevious:EU                                            ;Xevious:EU                                            
 
 ===================================================================================================================================================================================================
 Cores                         ;arcade_names_EU                                       ;arcade_names_JP                                       ;arcade_names_US                                       
 ===================================================================================================================================================================================================
                               |                           |                          |                           |                          |                           |                          |
+vimana                        ;Toaplan System 1 (Vimana)                             ;vimana:EU                                             ;vimana:EU                                             
+Xevious                       ;Namco - Xevious                                       ;Xevious:EU                                            ;Xevious:EU                                            
 XSleenaCore                   ;Technos - Soldier of Light                            ;Technos - Xain'd Sleena                               ;Technos - Solar Warrior                               
 Zaxxon                        ;SEGA - Zaxxon                                         ;Zaxxon:EU                                             ;Zaxxon:EU                                             
 zerowing                      ;Toaplan System 1 (Zero Wing)                          ;zerowing:EU                                           ;zerowing:EU                                           
